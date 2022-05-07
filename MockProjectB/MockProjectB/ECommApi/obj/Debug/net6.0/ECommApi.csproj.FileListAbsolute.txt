@@ -1,0 +1,348 @@
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.csproj.AssemblyReference.cache
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfoInputs.cache
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfo.cs
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CoreCompileInputs.cache
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\appsettings.json
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\ECommApi.exe
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\ECommApi.deps.json
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\ECommApi.runtimeconfig.json
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\ECommApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\ref\ECommApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\ECommApi.pdb
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\scopedcss\bundle\ECommApi.styles.css
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CopyComplete
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ref\ECommApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.pdb
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.genruntimeconfig.cache
+C:\Users\atidhing\Desktop\Projects\MockProject\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\appsettings.json
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.exe
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.deps.json
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.runtimeconfig.json
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\ref\ECommApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.pdb
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.AssemblyReference.cache
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfoInputs.cache
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfo.cs
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CoreCompileInputs.cache
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\scopedcss\bundle\ECommApi.styles.css
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CopyComplete
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ref\ECommApi.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.pdb
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.genruntimeconfig.cache
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\BLL.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\ECommApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\appsettings.json
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.exe
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.deps.json
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.runtimeconfig.json
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ref\ECommApi.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.pdb
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\BLL.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.AssemblyReference.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfoInputs.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfo.cs
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CoreCompileInputs.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\scopedcss\bundle\ECommApi.styles.css
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CopyComplete
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ref\ECommApi.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.pdb
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.genruntimeconfig.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\appsettings.json
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.exe
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.deps.json
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.runtimeconfig.json
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ref\ECommApi.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.pdb
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\BLL.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.AssemblyReference.cache
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfoInputs.cache
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfo.cs
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CoreCompileInputs.cache
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\scopedcss\bundle\ECommApi.styles.css
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CopyComplete
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ref\ECommApi.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.pdb
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.genruntimeconfig.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\appsettings.json
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.exe
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.deps.json
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.runtimeconfig.json
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ref\ECommApi.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\ECommApi.pdb
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\BLL.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.AssemblyReference.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfoInputs.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.AssemblyInfo.cs
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CoreCompileInputs.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\scopedcss\bundle\ECommApi.styles.css
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.csproj.CopyComplete
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ref\ECommApi.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.pdb
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\ECommApi\obj\Debug\net6.0\ECommApi.genruntimeconfig.cache

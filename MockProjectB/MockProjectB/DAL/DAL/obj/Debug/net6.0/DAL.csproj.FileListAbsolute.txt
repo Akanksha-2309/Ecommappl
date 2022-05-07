@@ -1,0 +1,69 @@
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\Projects\MockProject\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\Projects\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\akabansa\Downloads\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\atidhing\Desktop\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\ref\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\akabansa\Downloads\MockProjectB (8)\MockProjectB\MockProjectB\DAL\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache

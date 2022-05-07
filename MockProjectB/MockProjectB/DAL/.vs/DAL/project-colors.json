@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83bef058-5282-4adb-a60b-01e841927851": {
+      "ProjectGuid": "83bef058-5282-4adb-a60b-01e841927851",
+      "DisplayName": "DAL",
+      "ColorIndex": 0
+    },
+    "870d5c0f-fd5d-419b-b91b-43f774342d50": {
+      "ProjectGuid": "870d5c0f-fd5d-419b-b91b-43f774342d50",
+      "DisplayName": "BLL",
+      "ColorIndex": 1
+    },
+    "5a2911e1-55e6-4a30-885e-635d2599c39a": {
+      "ProjectGuid": "5a2911e1-55e6-4a30-885e-635d2599c39a",
+      "DisplayName": "ECommApi",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6c60d74d-82c6-480c-b895-d55c3973986d": {
+      "ProjectGuid": "6c60d74d-82c6-480c-b895-d55c3973986d",
+      "DisplayName": "EcommUnitTesting",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
